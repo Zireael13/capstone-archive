@@ -7,7 +7,7 @@ require (
 	github.com/DATA-DOG/go-sqlmock v1.5.0
 	github.com/adam-lavrik/go-imath v0.0.0-20200104135348-19d2b923d06c
 	github.com/agnivade/levenshtein v1.1.0 // indirect
-	github.com/alicebob/miniredis/v2 v2.14.3
+	github.com/alicebob/miniredis/v2 v2.15.1
 	github.com/bxcodec/faker/v3 v3.6.0
 	github.com/gin-contrib/cors v1.3.1
 	github.com/gin-contrib/sessions v0.0.3
